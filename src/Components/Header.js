@@ -16,7 +16,7 @@ const Header = () => {
        <Link class="nav-link active" to="/">ADD COURSE</Link>
         </li>
         <li class="nav-item">
-          <Link class="nav-link"to="/">VIEW COURSE</Link>
+          <Link class="nav-link"to="/view">VIEW COURSE</Link>
         </li>
       </ul>
     </div>
